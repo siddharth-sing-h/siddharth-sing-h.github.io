@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-IN"
-title                    : "Siddharth's randikhana"
+title                    : "Siddharth"
 title_separator          : "-"
 name                     : &name "Siddharth Singh"
 description              : &description "Mad scientist"
@@ -203,12 +203,12 @@ defaults:
       share: true
       related: true
   # _pages
-  - scope:
-      path: ""
-      type: pages
-    values:
-      layout: single
-      author_profile: true
+ # - scope:
+  #    path: ""
+   #   type: pages
+   # values:
+    #  layout: single
+     # author_profile: true
   # _teaching
   - scope:
       path: ""
