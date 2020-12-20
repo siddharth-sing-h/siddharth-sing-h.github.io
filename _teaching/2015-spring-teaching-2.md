@@ -1,11 +1,11 @@
 ---
-title: "Teaching experience 2"
+title: "Teaching Assistant"
 collection: teaching
-type: "Workshop"
+type: "QECDT"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+venue: "University of Bristol"
+date: 2019-10-01
+location: "Bristol, UK"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
