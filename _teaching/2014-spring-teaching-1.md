@@ -1,14 +1,13 @@
 ---
-title: "Teaching experience 1"
+title: "NSS Volunteer"
 collection: teaching
-type: "Undergraduate course"
+type: "Teaching volunteer"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "Computer litercay program, National service scheme "
+date: 2015-08
+location: "Pilani, Rajasthan"
 ---
-
-This is a description of a teaching experience. You can use markdown like any other post.
+I taught 
 
 Heading 1
 ======
