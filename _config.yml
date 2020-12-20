@@ -10,7 +10,7 @@ locale                   : "en-IN"
 title                    : "Siddharth"
 title_separator          : "-"
 name                     : &name "Siddharth Singh"
-description              : &description "Mad scientist"
+description              : &description "Quantum technologies researcher"
 url                      : https://siddharth-sing-h.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "siddharth-sing-h/siddharth-sing-h.github.io"
@@ -80,8 +80,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
+  name             : "Siddharth Singh"
+  avatar           : "profile.jpg"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Location"
   employer         :
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "siddharth-sing-h"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/siddarth-singh/"
   orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
