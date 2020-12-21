@@ -12,7 +12,7 @@ Hi, my name is Siddharth Singh, an aspiring researcher in the field of Quantum t
 
 About
 ======
-> I was born and lived in Jaipur, Rajasthan till my secondary education.
+< I was born and lived in Jaipur, Rajasthan till my secondary education.
 
 > I am currently working as a Research assistant in SQD Lab under Prof. Vibhor Singh in the Indian Institute of Sciences, Bangalore.
 
