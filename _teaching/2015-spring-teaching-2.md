@@ -8,13 +8,4 @@ date: 2019-10-01
 location: "Bristol, UK"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+Working with Dr. [Döndü Sahin](http://www.bristol.ac.uk/physics/people/dondu-sahin/index.html) on optimising 
