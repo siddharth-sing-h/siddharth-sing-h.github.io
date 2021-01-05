@@ -3,7 +3,7 @@ title: "NSS Volunteer"
 collection: teaching
 type: "Teaching volunteer"
 permalink: /teaching/2014-spring-teaching-1
-venue: "Computer litercay program, National service scheme(NSS) "
+venue: "Computer litercay program,(NSS) "
 date: 2015-08-01
 location: "Pilani, Rajasthan"
 ---
