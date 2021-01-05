@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * B.E. in Mechanical engineering, BITS Pilani, 2015-2020
-* M.S. in Physics, GitHub University, BITS Pilani, 2015-2020
+* M.S. in Physics, BITS Pilani, 2015-2020
 
 Work experience
 ======
