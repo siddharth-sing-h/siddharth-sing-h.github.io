@@ -11,42 +11,56 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.E. in Mechanical engineering, BITS Pilani, 2015-2020
+* M.S. in Physics, GitHub University, BITS Pilani, 2015-2020
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* July 2020- Present : Visiting Scholar 
+  * University of California, Berkeley
+  
+* July 2020- Present : Research Assistant 
+  * Indian institute of sciences.
+  
+* January 2020-July 2020: Master's thesis
+  * Indian institute of Sciences
+  
+* June 2019- Dec 2019: Master's thesis
+  * University of Bristol 
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2018: Research intern
+  * Quazar technologies
+  
+* Summer 2017: Design Intern  
+  * ZF Windpower, Coimbatore
+
+
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 
+* Nanofabrication
+  * Sputter deposition systems
+  * E-beam evaporation
+  * Ellipsometer
+  * Fluorescence spectrometer
+  * SEM
+  * Wet bench
+* Vacuum Pumping Systems
+  * UHV protocols
+  * UHV systems design
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+#Publications
+#======
+#  <ul>{% for post in site.publications %}
+#    {% include archive-single-cv.html %}
+#  {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+#Talks
+#======
+#  <ul>{% for post in site.talks %}
+#    {% include archive-single-talk-cv.html %}
+#  {% endfor %}</ul>
   
 Teaching
 ======
