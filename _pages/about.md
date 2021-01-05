@@ -14,7 +14,7 @@ About
 ======
 > I was born and lived in Jaipur, Rajasthan till my secondary education.
 
-> I am currently working as a Research assistant in SQD Lab with Prof. Vibhor Singh in the Indian Institute of Sciences, Bangalore.
+> I am currently working as a Research assistant in [SQD Lab](https://sites.google.com/view/sqd-lab/home) with Prof. [Vibhor Singh](https://iiscprofiles.irins.org/profile/66393) in the Indian Institute of Sciences, Bangalore.
 
 > I did a dual major in Physics and Mechanical engineering from BITS Pilani. Graduated in 2020.
 
