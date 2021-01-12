@@ -83,38 +83,10 @@ author:
   name             : "Siddharth Singh"
   avatar           : "profile.jpg"
   bio              : "Experimental physicist working on quantum technologies"
-  location         : "Location"
-  employer         :
-  pubmed           : 
-  googlescholar    : 
   email            : "siddharth.singh.u@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
   github           : "siddharth-sing-h"
-  google_plus      :
-  keybase          :
-  instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
   linkedin         : "siddarth-singh/"
-  orcid            : #"http://orcid.org/yourorcidurl"
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
-  tumblr           :
-  twitter          : "replacethistwitterhandle"
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
-  wikipedia        :
 
 
 # Reading Files
@@ -181,7 +153,7 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  Research:
     output: true
     permalink: /:collection/:path/
 #  talks:
@@ -218,15 +190,15 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _publications
- # - scope:
- #     path: ""
- #     type: publications
- #   values:
- #     layout: single
- #     author_profile: true
- #     share: true
- #     comments: true
+   _research
+  - scope:
+      path: ""
+      type: reserach
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
   # _portfolio
  # - scope:
  #     path: ""
@@ -260,17 +232,13 @@ timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database
 
 # Plugins
 plugins:
-  - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
-  - jekyll-feed
   - jekyll-redirect-from
 # mimic GitHub Pages with --safe
 whitelist:
-  - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
-  - jekyll-feed
   - jemoji
 
 
