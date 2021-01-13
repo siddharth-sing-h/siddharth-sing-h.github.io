@@ -1,6 +1,6 @@
 ---
-title: "Superconducting Qubits"
-excerpt: "Designing microwave components for cryogenic measurements inside dilution fridge 1<br/><img src='/images/1.jpg'>"
+title: "Photonics"
+excerpt: "Optimising ultrathin superconducting films<br/><img src='/images/4.jpg'>"
 collection: portfolio
 ---
 
