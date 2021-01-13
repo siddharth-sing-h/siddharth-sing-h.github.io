@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : siddhar61886857
 facebook:
   username               :
   app_id                 :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "siddhar61886857"
   vine             :
   weibo            :
   xing             :
@@ -228,14 +228,14 @@ defaults:
  #     share: true
  #     comments: true
   # _portfolio
- # - scope:
- #     path: ""
- #     type: portfolio
- #   values:
- #     layout: single
- #     author_profile: true
- #     share: true
- #     comment: true
+  - scope:
+     path: ""
+      type: portfolio
+      values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
   # _talks
   #- scope:
   #    path: ""
