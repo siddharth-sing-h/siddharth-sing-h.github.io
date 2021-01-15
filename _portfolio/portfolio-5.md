@@ -1,6 +1,6 @@
 ---
 title: "Quazar and a desert"
-excerpt: " <br/><img src='/images/3.jpg' style='width:550px;height:350px;'>"
+excerpt: " Why I went into research"
 collection: portfolio
 ---
 Having studied physics and mechnaical engineering, I was trying to find my groove in undergrad. I knew I wanted to make something, but not sure what?
