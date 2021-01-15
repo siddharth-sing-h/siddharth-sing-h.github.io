@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-My name is Siddharth Singh, an aspiring researcher in the field of Quantum techologies. I am working on solving problems that might eventually change the way we see the world.
+My name is Siddharth Singh, an aspiring researcher in the field of Quantum technologies. I am working on solving problems that might eventually change the way we see the world.
 
 About
 ======
