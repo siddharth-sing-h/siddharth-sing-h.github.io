@@ -8,3 +8,11 @@ collection: portfolio
  <b> Flux mediated coupling of a mechanical oscillator and Fluxonium qubit </b>
  
 We developed on the idea ([arxiv.org/abs/2001.05700](https://arxiv.org/abs/2001.05700))  of changing flux without changing magnetic field, by integrating a mechanical oscillator in the SQUID loop though which we are flux-biasing a fluxonium qubit. [Thesis](https://drive.google.com/file/d/1kyM2c8sp7pLhTdi-nWjw6gwNrvJg8iEY/view?usp=sharing).
+
+ 
+ <b> High frequency-impedance controlled circuit designing </b>
+ <p> Operating a qubit requires controlled exchange of microwave photons from the electronics. There should be </p>
+ 
+ <b> CAD modelling </b>
+ 
+ <p>To manufacture 3-D cavities, which house the qubit chip and get attached to the cryo-fridge, we calculate the operational frequency of a cavity and design the dimensions accordingly. To make solid-models of the cavities I have used Solidworks and Fusion 360. </p>
