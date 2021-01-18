@@ -29,7 +29,7 @@ Work experience
   * University of Bristol 
 
 * Summer 2018: Research intern
-  * Quazar technologies
+  * [Quazar technologies](http://quazartech.com/)
   
 * Summer 2017: Design Intern  
   * ZF Windpower, Coimbatore
@@ -49,7 +49,24 @@ Skills
 * Vacuum Pumping Systems
   * UHV protocols
   * UHV systems design
-
+* Cryogenic Systems :
+  * Liquid Helium and nitrogen protocols
+  * Dry cryogenic systems  
+* Programming Languages 
+  * Python
+  * C/C++
+* Softwares 
+  * COMSOL
+  * Solidworks
+  * AutoCAD
+  * ANSYS
+  * MATLAB
+  * Maple
+  * Labview
+  * Wolfram Mathematica
+* Tools/Frameworks 
+  * LATEX
+  * Git 
   
 Teaching
 ======
