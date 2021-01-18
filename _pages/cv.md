@@ -38,7 +38,6 @@ Work experience
   
 Skills
 ======
-* 
 * Nanofabrication
   * Sputter deposition systems
   * E-beam evaporation
