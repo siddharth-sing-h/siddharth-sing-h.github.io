@@ -12,7 +12,7 @@ redirect_from:
 CV
 ======
 
-My [CV](https://drive.google.com/file/d/1HcAexBR2CjeJf9OEiHN1a9Ms3WMU4nMC/view?usp=sharing).
+My [CV](https://drive.google.com/file/d/1HcAexBR2CjeJf9OEiHN1a9Ms3WMU4nMC/view?usp=sharing) built with template from [Adityavijakumar](https://github.com/adivijaykumar/resume).
 
 Education
 ======
