@@ -11,7 +11,9 @@ redirect_from:
 
 CV
 ======
+
 My [CV](https://drive.google.com/file/d/1HcAexBR2CjeJf9OEiHN1a9Ms3WMU4nMC/view?usp=sharing).
+
 Education
 ======
 * B.E. in Mechanical engineering, BITS Pilani, 2015-2020
