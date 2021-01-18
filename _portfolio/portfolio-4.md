@@ -5,6 +5,9 @@ collection: portfolio
 ---
 I did my first masters [thesis](https://drive.google.com/file/d/1dBgrkkCHt74WlBQOlJjdA7O53J41un-y/view) in University of Bristol working in QET Labs at Quantum engineering centre for doctoral training ([QECDT](http://www.bristol.ac.uk/quantum-engineering/)) with Dr.Döndü Sahin. The objective was to optimise thin films made out of superconducting material.
 
+Reference: [Optimisation of superconducting thin film growth for next generation superconducting detector applications](http://theses.gla.ac.uk/8573/)
+
+
  <b> Fabrication </b>
  <p>The lab had a custom sputter system manufactured by a specialist manufacturer, with four targets specially designed to fabricate thin films at a faster thoughput. The manufacturer had gone bankrupt a year before my project leaving no technical assistance. The system had stalled because of technical glitches and repairs pending. We started troubleshooting the system at the start of my project, tackling multiple aspetcs of the system. We started with extensive cleaning of the chambers, repairing of the cooling lines, leak detection and seal changes, 
 opening the vacuum pumps cleaning them and changing parts, removing sevearl auxillary systems as they had been malfunctioning, repairing electric motors which controlled the different motions inside the system and finally we also had to find the reason for flake formation. Extensive damage had been done due to misalignemnet and wrong triggers and overheating. After tackling all these problems along the way, I had gained valuable experience with the fabrication processes and how cleanroom works. This made me and my supervisor confident enough, that I started doing all the fabrication processes by myself in the cleanroom. This allowed me to find a recpie for superconducitng films. After extensive film fabrication, I was able to find a superconducting recpie on the system which allowed to reach new and higher transition temperature. </p>
