@@ -3,7 +3,7 @@ title: "Photonics"
 excerpt: " Worked with Dr.Döndü Sahin‬ on optimising ultrathin superconducting films in QET Labs, University of Bristol.<br/><img src='/images/3.jpg' style='width:510px;height:350px;'>"
 collection: portfolio
 ---
-I did my first masters thesis in University of Bristol working in QET Labs at Quantum engineering centre for doctoral training ([QECDT](http://www.bristol.ac.uk/quantum-engineering/)) with Dr.Döndü Sahin. The objective was to optimise thin films made out of superconducting material.
+I did my first masters [thesis](https://drive.google.com/file/d/1dBgrkkCHt74WlBQOlJjdA7O53J41un-y/view) in University of Bristol working in QET Labs at Quantum engineering centre for doctoral training ([QECDT](http://www.bristol.ac.uk/quantum-engineering/)) with Dr.Döndü Sahin. The objective was to optimise thin films made out of superconducting material.
 
  <b> Fabrication </b>
  <p>The lab had a custom sputter system manufactured by a specialist manufacturer, with four targets specially designed to fabricate thin films at a faster thoughput. The manufacturer had gone bankrupt a year before my project leaving no technical assistance. The system had stalled because of technical glitches and repairs pending. We started troubleshooting the system at the start of my project, tackling multiple aspetcs of the system. We started with extensive cleaning of the chambers, repairing of the cooling lines, leak detection and seal changes, 
