@@ -12,11 +12,11 @@ We developed on the idea ([arxiv.org/abs/2001.05700](https://arxiv.org/abs/2001.
  
  <b> High frequency-impedance controlled circuit designing </b>
  <p> Operating a qubit requires controlled exchanges of microwave photons. There should be no disturbance or noise sneeking into the system. While the measurements on the qubit are done, microwave lines with 50 ohm impedance are used. These lines then make several transitions with connectors, filters, amplifiers, couplers and several other microwave circuit components. During this transition the amount of cross-talk or interefernce of signals should be minimum. I have designed several PCB designs where we use different dielectrics and transmission lines design to get desired characteristics from the PCB. </p>
- <p>Reference: [Microwave Package Design for Superconducting Quantum Processors](https://arxiv.org/abs/2012.01438)</p>
+Reference: [Microwave Package Design for Superconducting Quantum Processors](https://arxiv.org/abs/2012.01438)
  
-  <b> Finite element Electromagnetic simulations  </b>
- <p> Modelling the impedance controlled circuits required understanding the impedance and the amount of reflections and transmission happening between a multiple port network with multiple signals. I used COMSOL to model the S-parametrs. </p> <p>A qubit's frequency, modes and different parameters can be calculated using black box quantisation, which divides the system into linear and non-linear parts. The impedance and admittance calculation is done using COMSOL.</p>
- <p>Reference: [Black-box superconducting circuit quantization](https://arxiv.org/abs/1204.0587)</p>
+ <p> <b> Finite element Electromagnetic simulations  </b></p>
+  <p>Modelling the impedance controlled circuits required understanding the impedance and the amount of reflections and transmission happening between a multiple port network with multiple signals. I used COMSOL to model the S-parametrs. </p> <p>A qubit's frequency, modes and different parameters can be calculated using black box quantisation, which divides the system into linear and non-linear parts. The impedance and admittance calculation is done using COMSOL.</p>
+Reference: [Black-box superconducting circuit quantization](https://arxiv.org/abs/1204.0587)
  
  <b> CAD modelling </b>
  <p>To manufacture 3-D cavities, which house the qubit chip and get attached to the cryo-fridge, we calculate the operational frequency of a cavity and design the dimensions accordingly. To make solid-models of the cavities I have used Solidworks and Fusion 360. Similarly I have made appendages for a dilution refrigerator, which allow to house and mount different microwave components as well as shielding components which block multiple sources of noises from the surroundings.   </p>
