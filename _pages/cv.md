@@ -16,23 +16,23 @@ Education
 
 Work experience
 ======
-* July 2020- Present : Visiting Scholar 
-  * University of California, Berkeley
+* July 2020- Present : [Visiting Scholar](https://siddharth-sing-h.github.io/portfolio/portfolio-2/) 
+  * [Ajoy lab](http://www.cchem.berkeley.edu/aagrp/people.html), University of California, Berkeley
   
-* July 2020- Present : Research Assistant 
-  * Indian institute of sciences.
+* July 2020- Present : [Research Assistant](https://siddharth-sing-h.github.io/portfolio/portfolio-1/) 
+  * SQD Lab, Indian institute of Sciences
   
-* January 2020-July 2020: Master's thesis
-  * Indian institute of Sciences
+* January 2020-July 2020: [Master's thesis](https://siddharth-sing-h.github.io/portfolio/portfolio-1/)
+  * SQD Lab, Indian institute of Sciences
   
-* June 2019- Dec 2019: Master's thesis
-  * University of Bristol 
+* June 2019- Dec 2019: [Master's thesis](https://siddharth-sing-h.github.io/portfolio/portfolio-4/)
+  * [University of Bristol](https://research-information.bris.ac.uk/en/organisations/qet-labs) 
 
 * Summer 2018: Research intern
   * [Quazar technologies](http://quazartech.com/)
   
 * Summer 2017: Design Intern  
-  * ZF Windpower, Coimbatore
+  * [ZF Windpower, Coimbatore](https://www.zf.com/india/en/company/company.html)
 
 
   
