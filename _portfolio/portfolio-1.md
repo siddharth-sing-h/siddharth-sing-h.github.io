@@ -7,8 +7,10 @@ collection: portfolio
 
  <b> Flux mediated coupling of a mechanical oscillator and Fluxonium qubit </b>
  
-We developed on the idea ([arxiv.org/abs/2001.05700](https://arxiv.org/abs/2001.05700))  of changing flux without changing magnetic field, by integrating a mechanical oscillator in the SQUID loop though which we are flux-biasing a fluxonium qubit. The [Thesis](https://drive.google.com/file/d/1kyM2c8sp7pLhTdi-nWjw6gwNrvJg8iEY/view?usp=sharing) was submitted as my graduation requirement in July,2020.
+We developed on the idea of changing flux without changing magnetic field, by integrating a mechanical oscillator in the SQUID loop though which we are flux-biasing a fluxonium qubit. The [Thesis](https://drive.google.com/file/d/1kyM2c8sp7pLhTdi-nWjw6gwNrvJg8iEY/view?usp=sharing) was submitted as my graduation requirement in July,2020.
 
+
+References: [Large flux-mediated coupling in hybrid electromechanical system with a transmon qubit](https://arxiv.org/abs/2001.05700)
  
  <b> High frequency-impedance controlled circuit designing </b>
  <p> Operating a qubit requires controlled exchanges of microwave photons. There should be no disturbance or noise sneeking into the system. While the measurements on the qubit are done, microwave lines with 50 ohm impedance are used. These lines then make several transitions with connectors, filters, amplifiers, couplers and several other microwave circuit components. During this transition the amount of cross-talk or interefernce of signals should be minimum. I have designed several PCB designs where we use different dielectrics and transmission lines design to get desired characteristics from the PCB. </p>
