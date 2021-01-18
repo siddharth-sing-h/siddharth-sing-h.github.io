@@ -3,8 +3,8 @@ title: "N-V centre spin system"
 excerpt: "Designing components for an optical hyperpolariser as part of Ajoy Lab at UC Berkeley <br/><img src='/images/2.jpg' style='width:400px;height:350px;'>"
 collection: portfolio
 ---
-<p>Coronavirus pandemic with all it's challenges and uncertainities changed the work culture. During this period I got the opportunity of working remotely with Prof. Ashok Ajoy. 
-I started working in Ajoy lab in July,2020 and since then I have contributed in different components of making an Optical hyperpolariser which operates at room temperature.</p>
+Coronavirus pandemic with all it's challenges and uncertainities changed the work culture. During this period I got the opportunity of working remotely with Prof. Ashok Ajoy. 
+I started working in [Ajoy lab](http://www.cchem.berkeley.edu/aagrp/people.html) in July,2020 and since then I have contributed in different components of making an Optical hyperpolariser which operates at room temperature.
 
 <b>Increasing the Hyperpolarisation using more lasers</b>    
 <p>The experiment requires to optically polasire the N-V centres present within a diamond. We used a coaxial multilayered ring stack to make a polyhedral structure, 
