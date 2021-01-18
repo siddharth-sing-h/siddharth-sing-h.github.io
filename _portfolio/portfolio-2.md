@@ -11,6 +11,7 @@ I started working in Ajoy lab in July,2020 and since then I have contributed in 
   which houses lasers. The mounting is made in a way to allow lasers to be focused at the centroid of the multilayer stack  and place a chip at that point. Microwave excitation 
   in-tandem transfers the polarisation form the spin to nuclei. My design led to a significant increase in the SNR and allowed more lasers to be focused on the diamond. Higher 
 number of lasers meant more N-V centres could be opticlaly polarised.</p>
+
 Reference: [Room temperature optical nanodiamond hyperpolarizer](https://aip.scitation.org/doi/full/10.1063/1.5131655)
 
 <b>Thermal simulation</b>    
