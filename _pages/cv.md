@@ -25,7 +25,7 @@ Work experience
   * [Ajoy lab](http://www.cchem.berkeley.edu/aagrp/people.html), University of California, Berkeley
   
 * July 2020- Present : [Research Assistant](https://siddharth-sing-h.github.io/portfolio/portfolio-1/) 
-  * SQD Lab, Indian institute of Sciences
+  * [SQD Lab](https://sites.google.com/view/sqd-lab/home), Indian institute of Sciences
   
 * January 2020-July 2020: [Master's thesis](https://siddharth-sing-h.github.io/portfolio/portfolio-1/)
   * SQD Lab, Indian institute of Sciences
