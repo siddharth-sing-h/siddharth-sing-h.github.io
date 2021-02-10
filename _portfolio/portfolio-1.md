@@ -19,6 +19,8 @@ Reference: [Microwave Package Design for Superconducting Quantum Processors](htt
  <p> <b> Finite element Electromagnetic simulations  </b></p>
   <p>Modelling the impedance controlled circuits required understanding the impedance and the amount of reflections and transmission happening between a multiple port network with multiple signals. I used COMSOL to model the S-parametrs. </p> <p>A qubit's frequency, modes and different parameters can be calculated using black box quantisation, which divides the system into linear and non-linear parts. The impedance and admittance calculation is done using COMSOL.</p>
 Reference: [Black-box superconducting circuit quantization](https://arxiv.org/abs/1204.0587)
+<p>Using COMSOL and black box quantisation theory, I am currently running simulations to optimise tunable couplers and multiqubit chips to control next-nearest neighbour coupling. These will be fabricated and measurements are to be followed.  </p>  
+  
  
  <b> CAD modelling </b>
  <p>To manufacture 3-D cavities, which house the qubit chip and get attached to the cryo-fridge, we calculate the operational frequency of a cavity and design the dimensions accordingly. To make solid-models of the cavities I have used Solidworks and Fusion 360. Similarly I have made appendages for a dilution refrigerator, which allow to house and mount different microwave components as well as shielding components which block multiple sources of noises from the surroundings.   </p>
